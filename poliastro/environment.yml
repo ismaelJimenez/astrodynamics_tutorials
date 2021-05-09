@@ -1,0 +1,5 @@
+name: poliastro_tutorials
+channels:
+  - conda-forge
+dependencies:
+  - poliastro
